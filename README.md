@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+KenNishi here, I like new technologies and trying new ideas.
